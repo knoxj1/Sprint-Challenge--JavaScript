@@ -53,6 +53,8 @@ Explicit binding: when .call or .apply are used.
 
 5. Why do we need super() in an extended class?
 
+So you can invoke functions that are in the sub class on the parent class of the extended class
+
 ## Project Set up
 
 Follow these steps to set up and work on your project:
